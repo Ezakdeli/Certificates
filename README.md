@@ -10,11 +10,7 @@ Showcasing my best achievements and certificates in programming, software develo
 ## 🛠️ Tech & Tools
 - Python | Git | GitHub | NumPy | Pandas | Scikit-learn | TensorFlow  
 
----
-
-## 📈 Projects
-- [Project 1](https://github.com/Ezakdeli/project1)  
-
+--- 
 
 ---
 
